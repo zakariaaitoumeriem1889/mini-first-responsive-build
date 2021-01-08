@@ -1,0 +1,11 @@
+### Node ###
+/node_modules
+
+### Lock file ###
+/yarn.lock
+/package-lock.json
+
+### IDE ###
+/.vscode
+/.idea
+
